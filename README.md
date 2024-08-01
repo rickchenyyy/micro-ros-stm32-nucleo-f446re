@@ -20,7 +20,7 @@ This guide provides a comprehensive step-by-step process for setting up a develo
     ros2 run ak60_commu_test pub_sub
     ```
 
-![Demo Video](./resource/demo.mp4)
+https://github.com/user-attachments/assets/b2251c2a-5a29-4e7f-952d-201d4b177d93
 
 
 # Building Micro-ROS Utilities and Setting Up CubeIDE on WSL
@@ -136,7 +136,7 @@ official website: [連線 USB 裝置](https://learn.microsoft.com/zh-tw/windows/
 [download xserver](https://sourceforge.net/projects/vcxsrv/)
 check disable access control
 
-![X server](./resource/Xserver.png){width=300px}
+![X server](./resource/Xserver.png)
 
 ```bash
 # copy to ~/.bashrc

@@ -1,12 +1,14 @@
 # Overview
 
-This guide provides a comprehensive step-by-step process for setting up a development environment for building micro-ROS utilities using Docker and CubeIDE on Windows Subsystem for Linux (WSL). The setup includes instructions for installing necessary tools like Docker and CubeIDE, configuring CubeIDE with the micro-ROS repository, and establishing a micro-ROS agent.
+This repo provides a comprehensive step-by-step process for setting up a development environment for building micro-ROS utilities using Docker and CubeIDE on Windows Subsystem for Linux (WSL). The setup includes instructions for installing necessary tools like Docker and CubeIDE, configuring CubeIDE with the micro-ROS repository, and establishing a micro-ROS agent.
 
 # Quick Start
 
 1. **Ensure Environment is Set Up:**
    - Copy the package `ak60_commu_test` to your workspace and build it.
+   - Copy the project `micro-ros-st-nucleo-f446re_only_commu` to your CubeIDE workspace, build it, and flash it to the F446RE.
    - Install the micro-ROS agent.
+   - Attach USB device(F446re) to WSL2
 
 2. **Open X Server and Docker Desktop.**
 
